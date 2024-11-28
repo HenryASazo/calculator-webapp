@@ -112,7 +112,6 @@ function handleNumber(numberString) {
 // listeners to the calculator's buttons.
 // When a button is clicked, it triggers
 // the buttonCLick function.
-
 // ***
 function init() {
   document
